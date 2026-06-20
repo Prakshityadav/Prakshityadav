@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 3rd Year **B.Tech CSE** student 
+- 🎓 4th Year **B.Tech CSE** student 
 - 💻 Skilled in **Java, Python, HTML, CSS, JavaScript, React.js, Spring, Servlet, DataStructure, Algorithm **  
 - 🌱 Currently learning **Spring Boot & nodeJs**  
 - 📫 How to reach me: **prakshityadav07@gmail.com**  
